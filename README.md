@@ -1,2 +1,2 @@
 # Groovy
-Groovy Scriptws
+Public Groovy Scripts for littlemissops.at
